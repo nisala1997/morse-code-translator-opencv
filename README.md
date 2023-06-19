@@ -1,7 +1,9 @@
-# Morse Code Translator
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=fadeIn&height=160&section=header&text=Morse%20Code%20Translator&fontSize=60)
+# 
 
 ## Overview
-Morse code is a method encode characters in a text as sequences of two different signal durations, called dots and dashes. Morse code was invented by Samuel F. B. Morse in the 1830s then advanced in the 1840s. This is a simple script which can easily convert images of morse code into plain text.
+The project involves using computer vision techniques provided by OpenCV to process images or video frames containing Morse code signals. The application applies image processing operations to enhance the Morse code signals, such as thresholding, morphological operations, and contour detection. These techniques help isolate and extract the Morse code symbols from the image.
 
 ## Getting Started
 
